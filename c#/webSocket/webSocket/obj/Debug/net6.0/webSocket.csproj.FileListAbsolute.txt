@@ -1,0 +1,15 @@
+C:\Users\Thp\workspace\web_socket\webSocket\webSocket\bin\Debug\net6.0\webSocket.exe
+C:\Users\Thp\workspace\web_socket\webSocket\webSocket\bin\Debug\net6.0\webSocket.deps.json
+C:\Users\Thp\workspace\web_socket\webSocket\webSocket\bin\Debug\net6.0\webSocket.runtimeconfig.json
+C:\Users\Thp\workspace\web_socket\webSocket\webSocket\bin\Debug\net6.0\webSocket.dll
+C:\Users\Thp\workspace\web_socket\webSocket\webSocket\bin\Debug\net6.0\webSocket.pdb
+C:\Users\Thp\workspace\web_socket\webSocket\webSocket\obj\Debug\net6.0\webSocket.csproj.AssemblyReference.cache
+C:\Users\Thp\workspace\web_socket\webSocket\webSocket\obj\Debug\net6.0\webSocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thp\workspace\web_socket\webSocket\webSocket\obj\Debug\net6.0\webSocket.AssemblyInfoInputs.cache
+C:\Users\Thp\workspace\web_socket\webSocket\webSocket\obj\Debug\net6.0\webSocket.AssemblyInfo.cs
+C:\Users\Thp\workspace\web_socket\webSocket\webSocket\obj\Debug\net6.0\webSocket.csproj.CoreCompileInputs.cache
+C:\Users\Thp\workspace\web_socket\webSocket\webSocket\obj\Debug\net6.0\webSocket.dll
+C:\Users\Thp\workspace\web_socket\webSocket\webSocket\obj\Debug\net6.0\refint\webSocket.dll
+C:\Users\Thp\workspace\web_socket\webSocket\webSocket\obj\Debug\net6.0\webSocket.pdb
+C:\Users\Thp\workspace\web_socket\webSocket\webSocket\obj\Debug\net6.0\webSocket.genruntimeconfig.cache
+C:\Users\Thp\workspace\web_socket\webSocket\webSocket\obj\Debug\net6.0\ref\webSocket.dll
