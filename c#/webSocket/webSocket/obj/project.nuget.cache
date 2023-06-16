@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hTtmqvCO1WYLGQi5WcI9u8xqVYuac3vHJaVnUDzHKdZFvPwpIa+Mm50tAZYgOjAcZXaMoO8S9brVkHuYbVohAA==",
+  "dgSpecHash": "gjDuwO35WnNCQt80hTC72Ut6tJPcVWZA6VTnpgZjp1frtsDVQMdwvNy/0WM/BzpgP6h2HX418BuvztH7FbNYXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Thp\\workspace\\web_socket\\webSocket\\webSocket\\webSocket.csproj",
+  "projectFilePath": "C:\\Users\\Thp\\workspace\\web_socket\\c#\\webSocket\\webSocket\\webSocket.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

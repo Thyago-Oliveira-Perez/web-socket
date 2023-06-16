@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thp\\workspace\\web_socket\\webSocket\\webSocket\\webSocket.csproj",
+      "projectUniqueName": "C:\\Users\\Thp\\workspace\\web_socket\\c#\\webSocket\\webSocket\\webSocket.csproj",
       "projectName": "webSocket",
-      "projectPath": "C:\\Users\\Thp\\workspace\\web_socket\\webSocket\\webSocket\\webSocket.csproj",
+      "projectPath": "C:\\Users\\Thp\\workspace\\web_socket\\c#\\webSocket\\webSocket\\webSocket.csproj",
       "packagesPath": "C:\\Users\\Thp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thp\\workspace\\web_socket\\webSocket\\webSocket\\obj\\",
+      "outputPath": "C:\\Users\\Thp\\workspace\\web_socket\\c#\\webSocket\\webSocket\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thp\\AppData\\Roaming\\NuGet\\NuGet.Config",
