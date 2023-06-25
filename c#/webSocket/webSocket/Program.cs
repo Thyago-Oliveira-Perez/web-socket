@@ -63,10 +63,11 @@ namespace webSocket
         public static string BuildHtmlResponse(string data)
         {
             string so = "";
+            string browser = "";
+            char[] dataArray = data.ToCharArray();
 
             if (data.Contains("sec-ch-ua-platform:"))
             {
-                char[] dataArray = data.ToCharArray();
                 int index = data.IndexOf("sec-ch-ua-platform:");
 
                 for (int i = index; dataArray[i] != '\n'; i++)
@@ -75,6 +76,18 @@ namespace webSocket
                 }
 
                 so = so.Split(":")[1];
+            }
+
+            if (data.Contains("sec-ch-ua:"))
+            {
+                int index = data.IndexOf("sec-ch-ua:");
+
+                for (int i = index; dataArray[i] != '\n'; i++)
+                {
+                    browser += dataArray[i];
+                }
+
+                browser = browser.Split(":")[1];
             }
 
             return string.Format(@"
@@ -89,9 +102,10 @@ namespace webSocket
                             <h1>Hi, my friend!</h1>
                             <p>Your infos:</p>
                             <p>so: {0}</p>
+                            <p>browser infos: {1}</p>
                         </body>
                     </html>
-                ", so);
+                ", so, browser);
         }
     }
 }
